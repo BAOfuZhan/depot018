@@ -5,10 +5,10 @@
         {
             "username": "",
             "password": "",
-            "times": ["09:00", "23:00"],
-            "roomid": "13484",
-            "seatid": ["356"],
-            "seatPageId": "13484",
+            "times": ["09:30", "22:00"],
+            "roomid": "13503",
+            "seatid": ["349"],
+            "seatPageId": "13503",
             "fidEnc": "4a18e12602b24c8c",
             "daysofweek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
         }
@@ -78,11 +78,11 @@
         "pre_fetch_token_ms": 1531,
 
         "_comment_first_submit_offset_ms": "第 1 枪相对目标时间 T 的延迟（毫秒）：mode=A 为提交延迟，mode=B 为取 token 延迟。",
-        "first_submit_offset_ms": 9,
+        "first_submit_offset_ms": 11,
 
         "_comment_retry": "[仅 serial] 第 2、3 枪在上一枪失败后等待的毫秒数。",
-        "target_offset2_ms": 24,
-        "target_offset3_ms": 140,
+        "target_offset2_ms": 34,
+        "target_offset3_ms": 110,
 
         "_comment_burst_offsets_ms": "[仅 burst] 各枪相对目标时间 T 的发射时刻（毫秒列表）。",
         "burst_offsets_ms": [221, 475, 670]
