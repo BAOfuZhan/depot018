@@ -98,7 +98,7 @@
         "pre_fetch_token_ms": 1531,
 
         "_comment_first_submit_offset_ms": "第 1 枪相对目标时间 T 的延迟（毫秒）：mode=A 为提交延迟，mode=B 为取 token 延迟。",
-        "first_submit_offset_ms": 11,
+        "first_submit_offset_ms": 1,
 
         "_comment_retry": "[仅 serial] 第 2、3 枪在上一枪失败后等待的毫秒数。",
         "target_offset2_ms": 34,
